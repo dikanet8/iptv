@@ -38,13 +38,3 @@ http://103.146.197.250:25461/rozikbkg/xxx/26
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/nBC3brt/BERITASATU.png" group-title="FTA Indonesia",Berita Satu
 http://103.146.197.250:25461/rozikbkg/xxx/28
-#EXTINF:-1 tvg-id="" tvg-name="BN TV" tvg-logo="https://bntvnasional.com/wp-content/uploads/2024/01/bntv.png" group-title="FTA Indonesia",BN TV
-http://103.146.197.250:25461/rozikbkg/xxx/29
-#EXTINF:-1 tvg-id="" tvg-name="Magna Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="FTA Indonesia",Magna Channel
-http://103.146.197.250:25461/rozikbkg/xxx/30
-#EXTINF:-1 tvg-id="" tvg-name="Garuda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="FTA Indonesia",Garuda TV
-http://103.146.197.250:25461/rozikbkg/xxx/31
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="https://nasionaltv.com/wp-content/uploads/2021/09/logontv.png" group-title="FTA Indonesia",NTV
-http://103.146.197.250:25461/rozikbkg/xxx/32
-#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nusantara_TV_Symbol.svg/150px-Nusantara_TV_Symbol.svg.png" group-title="FTA Indonesia",Nusantara TV
-http://103.146.197.250:25461/rozikbkg/xxx/428
