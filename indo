@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MYTV Net" tvg-logo="https://i.ibb.co/jZf0fCq/Mayapada-TV.png" group-title="FTA Indonesia",MYTV Net
-http://103.146.197.250:25461/rozikbkg/xxx/1
-#EXTINF:-1 tvg-id="" tvg-name="MYTV 2" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="FTA Indonesia",MYTV 2
-http://103.146.197.250:25461/rozikbkg/xxx/2
-#EXTINF:-1 tvg-id="" tvg-name="MYTV 3" tvg-logo="https://i.ibb.co/F6C5xdc/logo-My-TVkenhkovien02-2020040915376.png" group-title="FTA Indonesia",MYTV 3
-http://103.146.197.250:25461/rozikbkg/xxx/3
-#EXTINF:-1 tvg-id="" tvg-name="Budaya TV" tvg-logo="https://w1.pngwing.com/pngs/587/582/png-transparent-tv-logo-television-television-channel-broadcasting-btv-text-green.png" group-title="FTA Indonesia",Budaya TV
-http://103.146.197.250:25461/rozikbkg/xxx/4
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be1f09275720/cdf3a2185da14403a42ca58f74f261c0.png" group-title="Kids",Dunia Anak
-http://103.146.197.250:25461/rozikbkg/xxx/5
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://i.ibb.co/02CR9hw/CITRADRAMA.png" group-title="Movies",Citra Drama
-http://103.146.197.250:25461/rozikbkg/xxx/6
 #EXTINF:-1 tvg-id="" tvg-name="Lubis Media TV" tvg-logo="https://i.ibb.co/XSZLpBm/LUBIS-MEDIA-TV.png" group-title="FTA Indonesia",Lubis Media TV
 http://103.146.197.250:25461/rozikbkg/xxx/7
 #EXTINF:-1 tvg-id="" tvg-name="Jowo Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="FTA Indonesia",Jowo Channel
