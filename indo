@@ -4,7 +4,8 @@ https://d35d0ifx19oopq.cloudfront.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8|R
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="FTA Indonesia",MNCTV
 http://103.146.197.250:25461/rozikbkg/xxx/11
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Hp3TsYs/TVONE.png" group-title="FTA Indonesia",TV ONE
-http://103.146.197.250:25461/rozikbkg/xxx/12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="FTA Indonesia",GTV
 http://103.146.197.250:25461/rozikbkg/xxx/13
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/fM7661t/METROTV.png" group-title="FTA Indonesia",Metro TV
