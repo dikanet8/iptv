@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Lubis Media TV" tvg-logo="https://i.ibb.co/XSZLpBm/LUBIS-MEDIA-TV.png" group-title="FTA Indonesia",Lubis Media TV
-http://103.146.197.250:25461/rozikbkg/xxx/7
-#EXTINF:-1 tvg-id="" tvg-name="Jowo Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="FTA Indonesia",Jowo Channel
-http://103.146.197.250:25461/rozikbkg/xxx/8
-#EXTINF:-1 tvg-id="" tvg-name="Live Event" tvg-logo="https://imro.ie/wp-content/uploads/2020/06/live-streaming-image.png" group-title="FTA Indonesia",Live Event
-http://103.146.197.250:25461/rozikbkg/xxx/9
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://w7.pngwing.com/pngs/239/762/png-transparent-rcti-television-logo-gtv-sctv-tv-program-logo-blue-text-trademark.png" group-title="FTA Indonesia",RCTI
 http://103.146.197.250:25461/rozikbkg/xxx/10
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="FTA Indonesia",MNCTV
@@ -22,7 +16,7 @@ http://103.146.197.250:25461/rozikbkg/xxx/16
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://i.ibb.co/5hYVmZj/SCTV.png" group-title="FTA Indonesia",SCTV
-http://103.146.197.250:25461/rozikbkg/xxx/18
+http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/6Nj8BhZ/ANTV.png" group-title="FTA Indonesia",ANTV
 http://103.146.197.250:25461/rozikbkg/xxx/19
 #EXTINF:-1 tvg-id="" tvg-name="NET." tvg-logo="https://i.ibb.co/jGGzVSm/NETHD.png" group-title="FTA Indonesia",NET.
