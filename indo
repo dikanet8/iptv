@@ -35,7 +35,7 @@ http://202.80.222.175/000001/2/ch14041511541532132975/1001.m3u8?virtualDomain=00
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/rsPZCwk/CNNINDONESIA.png" group-title="FTA Indonesia",CNN Indonesia
 http://103.146.197.250:25461/rozikbkg/xxx/26
 #EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/Cmy5Kjq/CNBCINDONESIA.png" group-title="FTA Indonesia",CNBC Indonesia
-http://103.146.197.250:25461/rozikbkg/xxx/27
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://i.ibb.co/nBC3brt/BERITASATU.png" group-title="FTA Indonesia",Berita Satu
 http://103.146.197.250:25461/rozikbkg/xxx/28
 #EXTINF:-1 tvg-id="" tvg-name="BN TV" tvg-logo="https://bntvnasional.com/wp-content/uploads/2024/01/bntv.png" group-title="FTA Indonesia",BN TV
