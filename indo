@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://w7.pngwing.com/pngs/239/762/png-transparent-rcti-television-logo-gtv-sctv-tv-program-logo-blue-text-trademark.png" group-title="FTA Indonesia",RCTI
-http://xtv.ooo:8080/Ijaaz123/aijaz321/351023
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="FTA Indonesia",MNCTV
 http://103.146.197.250:25461/rozikbkg/xxx/11
 #EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/Hp3TsYs/TVONE.png" group-title="FTA Indonesia",TV ONE
