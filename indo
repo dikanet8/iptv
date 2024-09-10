@@ -183,19 +183,3 @@ http://103.146.197.250:25461/rozikbkg/xxx/88
 http://103.146.197.250:25461/rozikbkg/xxx/89
 #EXTINF:-1 tvg-id="" tvg-name="Ajwa TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ajwa-tv-id.png" group-title="Religi",Ajwa TV
 http://103.146.197.250:25461/rozikbkg/xxx/427
-#EXTINF:-1 tvg-id="" tvg-name="Godzilla: King of the Monsters (2019)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ajwa-tv-id.png" group-title="All Movies",Godzilla: King of the Monsters (2019)
-http://103.146.197.250:25461/movie/rozikbkg/xxx/259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="109 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0iZiCoQWJ7nDV9EmWIusbm86Ln.jpg" group-title="All Movies",109 (2023)
-http://103.146.197.250:25461/movie/rozikbkg/xxx/260.mkv
-#EXTINF:-1 tvg-id="" tvg-name="110 (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="All Movies",110 (2023)
-http://103.146.197.250:25461/movie/rozikbkg/xxx/261.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Warkop DKI: Salah Masuk (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="All Movies",Warkop DKI: Salah Masuk (1992)
-http://103.146.197.250:25461/movie/rozikbkg/xxx/262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oTa54pkMbmINRLdL7I5PefYywrC.jpg" group-title="All Movies",112
-http://103.146.197.250:25461/movie/rozikbkg/xxx/263.mkv
-#EXTINF:-1 tvg-id="" tvg-name="1.13 (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="All Movies",1.13 (2024)
-http://103.146.197.250:25461/movie/rozikbkg/xxx/264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ant-Man (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="All Movies",Ant-Man (2015)
-http://103.146.197.250:25461/movie/rozikbkg/xxx/265.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Armageddon Tales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2" group-title="All Movies",Armageddon Tales (2021)
-http://103.146.197.250:25461/movie/rozikbkg/xxx/266.mp4
