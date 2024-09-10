@@ -20,7 +20,7 @@ http://210.210.155.35/session/2d666c26-78c0-11ea-a706-c81f66f89318/qwr9ew/s/s03/
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://i.ibb.co/6Nj8BhZ/ANTV.png" group-title="FTA Indonesia",ANTV
 http://202.80.222.130/000001/2/ch14061215034900095272/1001.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="NET." tvg-logo="https://i.ibb.co/jGGzVSm/NETHD.png" group-title="FTA Indonesia",NET.
-http://103.146.197.250:25461/rozikbkg/xxx/20
+https://ythls.armelin.one/channel/UC1-ATnDVEwKT6-0aEeJ2ibA.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/R2h28xF/KOMPASTV.png" group-title="FTA Indonesia",Kompas TV
 http://103.146.197.250:25461/rozikbkg/xxx/21
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/DDB1s6w/RTV.png" group-title="FTA Indonesia",RTV
