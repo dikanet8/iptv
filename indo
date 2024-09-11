@@ -33,10 +33,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" group-title="FTA Indonesia",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8 
-##https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8 
-##https://link.zozotv.xyz:443/rozila969/abc12345/45 
-##http://xtv.ooo:8080/3212571066/abc123/350972 
-##http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138 
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8 
+https://link.zozotv.xyz:443/rozila969/abc12345/45 
+http://xtv.ooo:8080/3212571066/abc123/350972 
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
 
