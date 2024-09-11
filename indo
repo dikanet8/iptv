@@ -38,7 +38,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-https://atemeshield2-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
