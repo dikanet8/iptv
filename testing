@@ -26,7 +26,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mp
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" group-title="FTA Indonesia",Indosiar
-https://v.af/visionples-indosiar
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
