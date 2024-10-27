@@ -17,16 +17,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/index.m3u8
 https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/fM7661t/METROTV.png" group-title="FTA Indonesia",Metro TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
-https://dsgtq5sngxkde.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+https://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/PM7wL90/TRANSTV.png" group-title="FTA Indonesia",TRANS TV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/CPDrYb6/INDOSIAR.png" group-title="FTA Indonesia",Indosiar
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/YjJ70r6/TRANS7.png" group-title="FTA Indonesia",TRANS 7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
@@ -44,7 +41,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
 http://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="FTA Indonesia",MOJI HD
-http://opplex.tv:8080/3116580700/0700/350997
+https://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://i.ibb.co/DDB1s6w/RTV.png" group-title="FTA Indonesia",RTV
 http://103.146.197.250:25461/rozikbkg/xxx/22
@@ -103,3 +100,6 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="" group-title="Movies",Cinemax
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://en.bang-dream.com/wordpress/wp-content/themes/en_bang-dream_v0/assets/images/common/anime/bnr_aniplustv.png" group-title="Kids",Aniplus
+https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
