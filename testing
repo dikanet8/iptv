@@ -92,22 +92,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 #EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO.jpg" group-title="Movies",HBO
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Hits.png" group-title="Movies",HBO Hits
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Family.png" group-title="Movies",HBO Family
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/HBO%20Signature.png" group-title="Movies",HBO Signature
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="" group-title="Movies",Cinemax
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
